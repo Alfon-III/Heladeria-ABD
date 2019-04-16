@@ -1,0 +1,18 @@
+1. Añadir ID del item 
+	a)Terminar Pedido
+	b)Añadir un item mas
+	c)Cancelar Pedido
+	d)Borrar ultimo Item
+Sea cual sea la opcion, mostrar una lista con el pedido, junto al importe a pagar y las calorias :)
+
+Al Terminar el pedido, se muestra el tike del pedio junto a toda la informacion
+
+-Heladero que te atiende
+-Importe
+-ID DEL PEDIDO [IMPORTANTE]
+-Calorias
+-Items junto a su importe
+-fecha y hora 
+
+1.a) Si esta vacio se notifica
+1.b) Si no se encuentra, te muestra los productos con dicho nombre 
